@@ -1,0 +1,10 @@
+name: machineset-main
+title:
+username: pmedmlknowledgebase
+account: pmedmlknowledgebase
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11563481
+bundleId: 8405386
+url: https://pmedmlknowledgebase.shinyapps.io/machineset-main/
+version: 1
